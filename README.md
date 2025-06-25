@@ -24,7 +24,7 @@
 ### 📌 Proyectos recientes
 🔹 [Análisis de Conversión Web - A/B Testing](https://github.com/HumbertoTU/ProyectoSprint14TestA_B)  
 🔹 [Análisis de Operadores en Telecomunicaciones](https://github.com/HumbertoTU/ProyectoFinalSprint14)  
-🔹 [App Streamlit para Vehículos Usados](https://vehicles-app-3x7u.onrender.com) | [Código](https://github.com/HumbertoTU/Streamlit_Vehiculos)
+🔹 [App Streamlit para Vehículos Usados](https://vehicles-app-3x7u.onrender.com) | [Código](https://github.com/HumbertoTU/vehicles_app/blob/main/notebooks/EDA.ipynb)
 
 ---
 
