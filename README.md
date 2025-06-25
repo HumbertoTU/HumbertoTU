@@ -32,7 +32,7 @@
 
 - 📍 Puebla, México  
 - ✉️ humberto.tu@outlook.com  
-- 💼 [LinkedIn](https://linkedin.com/in/hhumberto-torres-urib-data-analyst-jr)  
+- 💼 [LinkedIn](https://linkedin.com/in/humberto-torres-urib-data-analyst-jr)  
 - 🔍 Siempre aprendiendo, siempre creando 🚀
 
 ---
